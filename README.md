@@ -1,4 +1,4 @@
-# Welcome to E26-SW01-05
+# Welcome to E26-SW01-05 - 코드웨이브
 
 ## 🎯 팀 슬로건
 
