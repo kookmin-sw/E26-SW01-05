@@ -8,7 +8,7 @@
 
 <div class="poster"><img src="poster.png" alt="팀 포스터" width="600"/></div>
 
-<p align="center" class="poster-caption"><sub>포스터 제작 및 아이디어 제시: 김나연 / 아이디어 확장 및 발표: 정민교 / 아이디어 확장: 셀레나</p>
+<p align="center" class="poster-caption"><sub>포스터 제작 및 아이디어 제시: 김나연 / 아이디어 확장 및 발표: 정민교 / 아이디어 확장: 셀레나</sub></p>
 
 [유레카 프로젝트 5팀.pdf](https://github.com/user-attachments/files/34455296/5.pdf)
 
