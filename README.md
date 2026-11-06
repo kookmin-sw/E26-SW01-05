@@ -10,6 +10,8 @@
 
 <p align="center" class="poster-caption"><sub>포스터 제작 및 아이디어 제시: 김나연 / 아이디어 확장 및 발표: 정민교 / 아이디어 확장: 셀레나</p>
 
+[유레카 프로젝트 5팀.pdf](https://github.com/user-attachments/files/34455296/5.pdf)
+
 1965년에 35년 뒤의 생활을 상상해 그린 이 그림처럼, 우리 팀이 그리는 미래를 포스터로 만들어 봅시다.
 팀 활동으로 만든 포스터를 `poster.jpg` 파일 이름으로 이 repository에 업로드하면 위 그림이 팀 포스터로 바뀝니다.
 파일 이름이 다르거나 png 파일이면 위 `<img src="poster.jpg">`의 파일 이름을 맞추고, 출처 문구도 팀에 맞게 고쳐 주세요.
