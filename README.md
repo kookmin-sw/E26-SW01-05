@@ -117,6 +117,11 @@
 > AI는 새로움이 가장 높은 B를 추천했지만, B는 고장 데이터가 있어야 동작하므로 C가 먼저 만들어져야 한다고 판단함. A는 원인을 직접 해결하지만 우리 팀이 결정할 수 없는 영역이라 제외함. C는 학교의 협조 없이 우리 팀이 직접 만들고 북악관에서 바로 검증할 수 있음.
 
 
+[유레카 프로젝트 5팀.pdf](https://github.com/user-attachments/files/34455296/5.pdf)
+<img width="1024" height="1447" alt="self_healing_city_figma_editable 1(3)" src="https://github.com/user-attachments/assets/90d9b410-ee36-4a98-b312-366ae892c355" />
+
+
+
 
 - 기관/부서 인터뷰 ✔️  
 
