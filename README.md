@@ -6,11 +6,12 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src="poster.png" alt="팀 포스터" width="600"/></div>
+<div class="poster"><img src="E26-SW01-05.png" alt="팀 포스터" width="600"/></div>
 
 <p align="center" class="poster-caption"><sub>포스터 제작 및 아이디어 제시: 김나연 / 아이디어 확장 및 발표: 정민교 / 아이디어 확장: 셀레나</sub></p>
 
-[유레카 프로젝트 5팀.pdf](https://github.com/user-attachments/files/34455296/5.pdf)
+[E26-SW01-05.pdf](https://github.com/user-attachments/files/34560367/E26-SW01-05.pdf)
+
 
 1965년에 35년 뒤의 생활을 상상해 그린 이 그림처럼, 우리 팀이 그리는 미래를 포스터로 만들어 봅시다.
 팀 활동으로 만든 포스터를 `poster.jpg` 파일 이름으로 이 repository에 업로드하면 위 그림이 팀 포스터로 바뀝니다.
@@ -18,9 +19,6 @@
 
 > **포스터 파일 권장 규격**: A4 세로 비율(1 : 1.414), 1240×1754px 이상, JPG, 2MB 이하.
 > 홈페이지에서는 어떤 크기·비율의 파일을 올려도 같은 크기의 세로 틀 안에 맞춰 표시되지만, 권장 규격을 지키면 여백 없이 가장 선명하게 보입니다.
-
-
-[Uploading RE CITY 스스로 회복하는 도시 — 발표 덱 복사본.pdf…]()
 
 
 
@@ -124,8 +122,9 @@
 > AI는 새로움이 가장 높은 B를 추천했지만, B는 고장 데이터가 있어야 동작하므로 C가 먼저 만들어져야 한다고 판단함. A는 원인을 직접 해결하지만 우리 팀이 결정할 수 없는 영역이라 제외함. C는 학교의 협조 없이 우리 팀이 직접 만들고 북악관에서 바로 검증할 수 있음.
 
 
-[유레카 프로젝트 5팀.pdf](https://github.com/user-attachments/files/34455296/5.pdf)
-<img width="1024" height="1447" alt="self_healing_city_figma_editable 1(3)" src="https://github.com/user-attachments/assets/90d9b410-ee36-4a98-b312-366ae892c355" />
+
+[E26-SW01-05.pdf](https://github.com/user-attachments/files/34560384/E26-SW01-05.pdf)
+<img width="4967" height="7022" alt="E26-SW01-05" src="https://github.com/user-attachments/assets/0d72c04d-78c7-4565-84db-28235ffa122a" />
 
 
 
